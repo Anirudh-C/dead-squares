@@ -10,5 +10,6 @@ A recurring theme in my games is the (self-perceived) glorious sacrifice of mate
 
 <chess-board
     position="r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w Qkq - 0 1"
-    style="width: 400px">
+    style="width: 300px">
 </chess-board>
+In the above marvelous position, I chose to send my unassuming pawn to the gallows -- **7. f4?**
