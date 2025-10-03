@@ -10,9 +10,13 @@ A recurring theme in my games is the (self-perceived) glorious sacrifice of mate
 
 <div id="position-1" style="width: 300px; margin-inline: auto"></div>
 
+{% raw %}
 <script>
-  var board = Chessboard('position-1', {
-    position: 'r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w Qkq - 0 1'
-  })
+    document.addEventListener("DOMContentLoaded", function () {
+    var board = Chessboard('position-1', {
+      position: 'r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w Qkq - 0 1'
+    });
+  });
 </script>
+{% endraw %}
 
