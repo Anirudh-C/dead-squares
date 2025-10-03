@@ -31,4 +31,4 @@ If a **Gladiator** is sacrificed by white, then a pawn must have moved on the fi
 ### footnotes
 [^1]: I really liked that I could rhyme in that phrase.
 [^2]: Or so I hope. I would very much like to shake the hand of that fortunate soul that both plays a lot of chess and is not vexed by the game even a little.
-[^3]: Observe that instead of **2. .. exf4**, the move **2. .. Qh4#**, which is checkmate. But I think the story about *Maximus* is heart-wrenching and worth a retelling, even if it is with a pinch of satire.
+[^3]: Observe that instead of **2. .. exf4**, the move **2. .. Qh4#**, is checkmate. But I think the story about *Maximus* is heart-wrenching and worth a retelling, even if it is with a pinch of satire.
