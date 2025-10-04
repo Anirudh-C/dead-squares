@@ -63,17 +63,16 @@ the analogue of *il Calabrese*. *The Romantic* exhibits similar bravado and inte
     style="width: 60%; margin-inline: auto">
 </chess-board>
 
-# some pawn sacrifice motifs
-
-
 ### footnotes
 [^1]: I really liked that I could rhyme in that phrase.
 [^2]: Or so I hope. I would very much like to shake the hand of that fortunate soul that both plays a lot of chess and is not vexed by the game even a little.
 [^3]: Observe that instead of **2. .. exf4**, the move **2. .. Qh4#**, is checkmate. But I think the story about *Maximus* is heart-wrenching and worth a retelling, even if it is with a pinch of satire.
 [^4]: The Scandinavian defense is one of the oldest recorded chess openings in history, first appearing as a fictional game in the poem *Scachs d'Amor* by *Francesc de Castellví, Bernat Fenollar, and Narcís Vinyoles*. See FIDE Candidate Master Arnie Moll's interesting [article](https://www.chess.com/blog/ArnieChipmunk/the-oldest-chess-opening) on the same.
 [^5]: The Scandinavian defense was played extensively by the Swedish brothers Ludvig and Gustaf Collijn. At the first Nordic Chess Championship held in Stockholm in 1897, both the brothers played the Scandinavian defense extensively. Both brothers had the black pieces for 5 games in the tournament, played the Scandinavian defense in 4 of those games and won with the black pieces only once and when they played the Scandinavian defense. See the [games](https://www.chessgames.com/perl/chess.pl?page=1&tid=40937) of the tournament.
-[^6]: <span style="color:#9370DB">TODO</span>: a blog post on dishonourable gambits.
+[^6]: <span style="background-color:#9370DB; color:white">TODO</span>: a blog post on dishonourable gambits.
 [^7]: The *Weeping* **Gladiator** is named after the classical opening the Benoni defense, which is now called the old Benoni defense. Benoni or Ben-Oni which is a biblical name that translates to "son of my sorrow*; hence, the *weeping* **Gladiator**. 
 [^8]: Joseph Henry Blackburne was one of the first players to have used the Benoni defense with success (I suppose this means he's the first one in documented history to have won with the Benoni). See his [game](https://www.chessgames.com/perl/chessgame?gid=1001636) against Preston Ware in the [Vienna Tournament in 1882](https://www.chessgames.com/perl/chess.pl?tid=80456).
 [^9]: *il Calabrese* is the namesake of Gioachino Greco who was one of the first to analyze the venerable Queen's gambit.
-[^10]: The nosy and unsatisfied reader may have noticed that the **f**-pawn is somehow *Maximus Decimus Meridius* and *The Romantic*. I admit I did not foresee this plot hole arising when I was writing this post. However, I note that it is easily resolved: *They are both the same entity*<span style="background-color:teal; color:white">!!</span>. For those readers, who are aware of the source of my plagiarism of the name *Maximus Decimus Meridius* can attest to the fact that he was definitely *Romantic*. <span style="color:#9370DB">TODO</span>: Backstory for the *Romantic* **Serpent-Gladiator**.
+[^10]: The nosy and unsatisfied reader may have noticed that the **f**-pawn is somehow *Maximus Decimus Meridius* and *The Romantic*. I admit I did not foresee this plot hole arising when I was writing this post. However, I note that it is easily resolved: *They are both the same entity*<span style="background-color:teal; color:white">!!</span>. For those readers, who are aware of the source of my plagiarism of the name *Maximus Decimus Meridius* can attest to the fact that he was definitely *Romantic*. <span style="background-color:#9370DB; color:white">TODO</span>: Backstory for the *Romantic* **Serpent-Gladiator**.
+[^11]: A friend and frequent opponent of mine had spent a considerable amount of time attempting to make me laugh during the course of a game. More specifically, the friend wanted the *perfect* move, a move that transcends the intricacies of the game and results in pure comedic effect. Critically, I was unaware of these attempts and can confidently say that when the friend succeeded and I was finally privy to their diabolical endeavour, I was thoroughly entertained.
+[^12]: Alliteration!
