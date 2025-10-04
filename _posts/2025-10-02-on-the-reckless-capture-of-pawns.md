@@ -59,7 +59,7 @@ Furthermore, *il Calabrese* may appear in a delayed fashion and presents very si
 the analogue of *il Calabrese*. *The Romantic* exhibits similar bravado and integrity as *il Calabrese* but has strong allegiance to the king <span style="background-color:teal; color:white">!!</span>. *The Romantic* is the white **f**-pawn[^10] and arrives in emphatic nature in the famed *King's gambit* after the moves **1. e4 e5 2. f4** (see below).
 <chess-board
     orientiation="white"
-    position="rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2"
+    position="rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2"
     style="width: 60%; margin-inline: auto">
 </chess-board>
 
