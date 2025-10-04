@@ -10,7 +10,7 @@ A recurring theme in my games is the sacrifice of material ending in devastating
 <chess-board
     orientiation="white"
     position="start"
-    style="width: 40%; margin-inline: auto">
+    style="width: 60%; margin-inline: auto">
 </chess-board> 
 In the same vein, if I choose to punctuate my sentence with <span style="background-color:teal; color:white">!!</span>, am I claiming its objective unquestionable brilliance<span style="background-color:red; color:white">??</span> I find it far more comforting to interpret <span style="background-color:teal; color:white">!!</span> and <span style="background-color:red; color:white">??</span> as my personal annotations indicating the particular joy I derived<span style="background-color:teal; color:white">!!</span>.(although, I find punctuation a bit harder as a consequence). The annotation of chess moves, on the other hand, will be solely the responsibility of the chess.com analysis. Now to the matter at hand...
 
@@ -24,7 +24,7 @@ If a **Gladiator** is sacrificed by white, then a pawn must have moved on the fi
 <chess-board
     orientiation="white"
     position="rnbqkbnr/pppp1ppp/8/4p3/5PP1/8/PPPPP2P/RNBQKBNR b KQkq g3 0 2"
-    style="width: 40%; margin-inline: auto">
+    style="width: 60%; margin-inline: auto">
 </chess-board>
 *Maximus* perishes at this point, in one move: **2. .. exf4** but ensured that the lives of the other potential **Gladiator**'s could have been saved.[^3]
 
@@ -33,7 +33,7 @@ The above discussion considered only white **Gladiators** while completely ignor
 <chess-board
     orientiation="white"
     position="rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2"
-    style="width: 40%; margin-inline: auto">
+    style="width: 60%; margin-inline: auto">
 </chess-board>
 Another interesting chess player who was known to have played and developed the theory of the Scandinavian defense was Joseph Henry Blackburne. Nicknamed the *Black Death*, Blackburne used to hustle amateur players with the absolutely scandalous *Shilling Gambit* named after him[^6]. 
 
@@ -41,7 +41,7 @@ Another interesting chess player who was known to have played and developed the 
 <chess-board
     orientiation="white"
     position="rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2"
-    style="width: 40%; margin-inline: auto">
+    style="width: 60%; margin-inline: auto">
 </chess-board>
 
 ### Fortunate Sons
