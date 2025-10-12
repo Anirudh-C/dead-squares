@@ -10,6 +10,7 @@ The well-informed reader knows that much has been said about *Maximus Decimus Me
 
 # the postcard
 July 22, 1984
+
 To whomsoever it may concern,
 
 As I lie in the infirmary, dazed and confused, I think of the good times, bad times. I wonder how many more times I must perish against the black mountain side struggling with the communication breakdown. <span style="color:red">(I think Maximus has discovered Led Zepellin)</span>. Alas, I must recall fondly the magnificent events that led to my maiming and request that these details be shared with the world.
