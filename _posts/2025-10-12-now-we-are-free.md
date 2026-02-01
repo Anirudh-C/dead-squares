@@ -18,7 +18,9 @@ As I lie in the infirmary, dazed and confused, I think of the good times, bad ti
 ... as I was saying I got pushed to support the Queen on move 23. In a highly protracted battle, this move decided the game <span style="color:red">(I feel this is an absurd introduction to the game. There is absolutely nothing in this description of the game. I refer the fanatic reader to the actual game between GM Pia Cramling and GM Viktor Korchnnoi and furthermore to the analysis of the game provided by the legendary player herself in [this video](https://www.youtube.com/watch?v=JsqlLRMFaks))</span>. My advance enabled an overwhelming attack for the player with the white pieces (I am told this is GM Pia Cramling) to threaten checkmate with **25. Bd4**. I unfortunately fell on move 29 when I was threatened with my Archbishop <span style="color:red">(I assume this is the bishop that got forked with my dear friend on move 28)</span> and I was forced to sacrifice myself for the eventual overwhelming victory that GM Pia Cramling was guaranteed due to my forethought.
 
 Best regards from your acquantaince,<span style="color:red">(*Maximus* is undermining my relationship with him[^5])</span>
+
 *Maximus Decimus Meridius*
+
 Commander of the Armies of the North and the Felix Legions
 Between 200-300 Anno Domini[^6]
 
