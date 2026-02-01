@@ -32,4 +32,4 @@ Between 200-300 Anno Domini[^6]
 [^4]: Note that the quality of this blog is highly irrelevant. I understand that the readers of this blog are most likely people I forced to read this post.
 [^5]: A highly meaningless comment regarding the effective disregard *Maximus* places on the poor writer of this blog. 
 [^6]: An inaccurate timestamp. But who am I to complain; a blog post dated 12.10.2025 is getting posted on 01.02.2026 (a delay of an amount of time that is intensely irrelevant[^7]).
-[^7]: An unnecessary footnoted to indicate that the author does not subscribe to reducionist notions of time.
+[^7]: An unnecessary footnote to indicate that the author does not subscribe to reducionist notions of time.
