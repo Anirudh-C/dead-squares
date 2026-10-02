@@ -19,6 +19,7 @@ Upon careful observation, one may note the following:
 1. *the witty alien* (with the black pieces) is down an exchange: he has a bishop in exchange for Magnus' extra rook. This excludes all the pawns that *the witty alien* has lost and is set to lose: for instance, **20. Rxd6** loses another pawn with white maintaining the advantage.
 2. The black king on h8 is more or less suffocated by his own pieces with white's pieces marching down the board to deliver eventual checkmate in a brutal fashion.
 3. There are extremely limited avenues for our beloved *witty alien* to cause complications as he usually does. The rook and queen are tied down to the 8th rank to protect the poor king on h8 and the bishop on a2 is the only piece that has made it into the white camp and is incapable of an attack on the white king.
+
 It seems that *the witty alien* has played himself into a downright diabolical position against one of the greatest players of the game of chess and in doing so is also down by almost 80% of the clock time allotted to each player, 1:08 against 4:20 on the clock. With all these gargantuan odds stacked against him, *the witty alien* seemed almost down and out in altogether unremarkable fashion...
 
 In the matter of 3 and a half seconds, the unthinkable occurred, lightning struck 42 times at the same location, something so improbable that it even caused a moment of literary creativity in the author, Magnus Carlsen played the move heard all over the world[^2]: **20. Rde1**. *The witty alien* immediately, pounced on this opportunity, screaming and hyperventilating at the prospect of almost sure victory. He made sure to tear off a meaningful amount of his clothing while playing the absolutely devastating move, the only move in the position, **20. .. Rb1+**!
@@ -27,7 +28,7 @@ In the matter of 3 and a half seconds, the unthinkable occurred, lightning struc
     position="6qk/p1Q1R1pp/3p4/8/8/2P5/b1P2PPP/1rK1R3 w - - 2 21"
     style="width: 60%; margin-inline: auto">
 </chess-board>
-The white king is in check and is forced to move to d2; of course, if Magnus did not play **21. Kd2**, *the witty alien* could have captured the white king and proceeded to celebrate in truly obscene fashion. The black queen would then resurrect herself and join in the onslaught against the white king, **21. .. Qd5+**, yielding the following magnificent 
+The white king is in check and is forced to move to d2; of course, if Magnus did not play **21. Kd2**, *the witty alien* could have captured the white king and proceeded to celebrate in truly obscene fashion. The black queen would then resurrect herself and join in the onslaught against the white king, **21. .. Qd5+**, yielding the following magnificent ending position
 <chess-board
     orientiation="white"
     position="7k/p1Q1R1pp/3p4/3q4/8/2P5/b1PK1PPP/1r2R3 w - - 4 22"
